@@ -2,3 +2,19 @@ body{
     background-color: rgb(247, 254, 255);
     color: rgb(0,0,0);
 }
+
+#g1{
+    display: block;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#submit{
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+#output{
+    white-space: pre-line;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

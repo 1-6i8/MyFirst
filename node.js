@@ -1,5 +1,3 @@
-// console.log("Hello JavaScript");
-// console.log("i love pizza");
-
-// window.alert("Do you remember the time.");
-// window.alert("When we falling love~.");
+document.getElementById(`submit`).onclick = function() {
+    document.getElementById("output").textContent = "I'm start with the man in the mirror.\nI'm asking him to change his ways"
+}
